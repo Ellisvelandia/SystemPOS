@@ -2,7 +2,6 @@
 
 import { Card } from "@/components/ui/card";
 import { orders } from "@/lib/data";
-import { format } from "date-fns";
 
 export function OrderReport() {
   return (

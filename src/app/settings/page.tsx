@@ -1,5 +1,4 @@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { Card } from "@/components/ui/card";
 import { ProductsManagement } from "@/components/settings/products-management";
 import { AppearanceSettings } from "@/components/settings/appearance-settings";
 import { RestaurantSettings } from "@/components/settings/restaurant-settings";

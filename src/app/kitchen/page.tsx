@@ -1,5 +1,3 @@
-import { DataTable } from "@/components/kitchen/data-table";
-import { columns } from "./columns";
 import { orders } from "@/lib/data";
 
 export default function KitchenPage() {

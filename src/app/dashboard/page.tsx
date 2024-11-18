@@ -1,4 +1,4 @@
-import { MainNav } from "@/components/main-nav";
+// import { MainNav } from "@/components/main-nav";
 import { DashboardStats } from "@/components/dashboard/stats";
 import { OrderReport } from "@/components/dashboard/order-report";
 import { MostOrdered } from "@/components/dashboard/most-ordered";

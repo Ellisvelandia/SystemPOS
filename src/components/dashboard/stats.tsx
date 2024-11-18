@@ -1,7 +1,7 @@
 "use client";
 
 import { Card } from "@/components/ui/card";
-import { TrendingUp, TrendingDown, Users, ShoppingBag, DollarSign, ArrowUpRight, ArrowDownRight } from "lucide-react";
+import { Users, ShoppingBag, DollarSign, ArrowUpRight, ArrowDownRight } from "lucide-react";
 
 const stats = [
   {
